@@ -1,3 +1,6 @@
 [submodule "p0-statistics"]
 	path = p0-statistics
 	url = git@github.com:temttae/eecs281-p0-statistics.git
+[submodule "p1-back-to-the-ship"]
+	path = p1-back-to-the-ship
+	url = git@github.com:temttae/eecs281-p1-back-to-the-ship.git
