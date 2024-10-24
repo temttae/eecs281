@@ -7,3 +7,6 @@
 [submodule "p2a-stock-market-simulation"]
 	path = p2a-stock-market-simulation
 	url = git@github.com:temttae/eecs281-p2a-stock-market-simulation.git
+[submodule "p2b-priority-queues"]
+	path = p2b-priority-queues
+	url = git@github.com:temttae/eecs281-p2b-priority-queues.git
