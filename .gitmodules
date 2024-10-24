@@ -4,3 +4,6 @@
 [submodule "p1-back-to-the-ship"]
 	path = p1-back-to-the-ship
 	url = git@github.com:temttae/eecs281-p1-back-to-the-ship.git
+[submodule "p2a-stock-market-simulation"]
+	path = p2a-stock-market-simulation
+	url = git@github.com:temttae/eecs281-p2a-stock-market-simulation.git
