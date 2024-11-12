@@ -10,3 +10,6 @@
 [submodule "p2b-priority-queues"]
 	path = p2b-priority-queues
 	url = git@github.com:temttae/eecs281-p2b-priority-queues.git
+[submodule "p3-281bank"]
+	path = p3-281bank
+	url = git@github.com:temttae/eecs281-p3-281bank.git
