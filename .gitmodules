@@ -13,3 +13,6 @@
 [submodule "p3-281bank"]
 	path = p3-281bank
 	url = git@github.com:temttae/eecs281-p3-281bank.git
+[submodule "p4-pokemon"]
+	path = p4-pokemon
+	url = git@github.com:temttae/eecs281-p4-pokemon.git
